@@ -1,0 +1,24 @@
+body {
+    color: black;
+    text-align: center;
+    list-style-type: none;
+    background-color: rgb(100, 200, 125);
+    }
+  
+    p {
+      text-align: left;
+      font: size 20px;
+    }
+
+    h1 {
+      font-size: 48px;
+    }
+
+    h2 {
+      font-size: 32px;
+    }
+
+    .Titulos{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
